@@ -1,0 +1,461 @@
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+body {
+    direction: rtl;
+    font-family: 'Droid Arabic Kufi', serif !important;
+}
+
+
+@media (min-width: 768px) {
+    .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+        float: right;
+    }
+    .navbar-nav {
+        float: right;
+    }
+    .navbar-nav>li {
+        float: right;
+    }
+    .navbar-header {
+        float: right;
+    }
+}
+
+
+.nav {
+    padding-right: 0;
+    padding-left: unset;
+}
+
+
+.nav-pills>li {
+    float: right;
+}
+
+
+.contactinfo ul li:first-child {
+    margin-left: unset;
+    margin-right: -15px;
+}
+
+
+.nav-pills>li+li {
+    margin-right: 2px;
+}
+
+
+.pull-right {
+    float: left!important;
+}
+
+
+.header-middle .container .row .col-sm-4 {
+    padding-left: unset;
+    padding-right: 0;
+}
+
+
+.pull-left {
+    float: right!important;
+}
+
+
+.header-middle .container .row .col-sm-8 {
+    padding-right: unset;
+    padding-left: 0;
+}
+
+
+.shop-menu ul li a i {
+    margin-right: unset;
+    margin-left: 3px;
+}
+
+
+.shop-menu ul li:last-child {
+    padding-right: unset;
+    padding-left: 0;
+}
+
+
+.navbar-toggle {
+    float: left;
+    margin-right: unset;
+    margin-left: 15px;
+}
+
+
+.navbar-collapse.collapse {
+    padding-left: unset;
+    padding-right: 0;
+}
+
+
+.mainmenu ul li:first-child {
+    padding-right: 0px;
+    padding-left: 15px;
+}
+
+
+.fa-angle-down {
+    padding-left: unset;
+    padding-right: 5px;
+}
+
+
+ul.sub-menu {
+    left: unset;
+    right: 0;
+}
+
+
+.search_box input {
+    padding-left: unset;
+    padding-right: 10px;
+    background-position: 10px;
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.carousel-indicators {
+    left: unset;
+    right: 50%;
+    padding-left: unset;
+    padding-right: 0;
+    margin-left: unset;
+    margin-right: -30%;
+}
+
+
+.item {
+    padding-left: unset;
+    padding-right: 100px;
+}
+
+
+.right {
+    right: unset;
+    left: 0;
+}
+
+
+.padding-right {
+    padding-right: 15px;
+    padding-left: 0;
+}
+
+
+.add-to-cart i {
+    margin-right: unset;
+    margin-left: 5px;
+}
+
+
+.nav-justified>li {
+    float: none;
+}
+
+
+.nav-tabs>li {
+    float: right;
+    margin-bottom: -1px;
+}
+
+
+#recommended-item-carousel .carousel-inner .item {
+    padding-left: unset;
+    padding-right: 0;
+}
+
+
+.choose ul li a i {
+    margin-right: unset;
+    margin-left: 5px;
+}
+
+
+.nav-stacked>li {
+    float: none;
+}
+
+
+.slider .tooltip-inner {
+    direction: ltr;
+}
+
+
+.shop-menu ul li a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.mainmenu ul li a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.get {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.item h2 {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.left-sidebar h2, .brands_products h2 {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+h2.title {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.category-products .panel-default .panel-heading .panel-title a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.product-overlay p {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.productinfo p {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.add-to-cart {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.product-overlay .add-to-cart {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.choose ul li a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.category-tab ul li a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.single-widget h2 {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.single-widget ul li a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.footer-bottom p {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.login-form h2, .signup-form h2 {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.login-form form button, .signup-form form button {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.or {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+#cart_items .cart_info .cart_menu {
+    font-family: 'Droid Arabic Kufi';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+#cart_items .cart_info .cart_description h4 a {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.product-information h2 {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.product-information p {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+#reviews form span input {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+#reviews button {
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+@media (min-width: 768px) {
+    .col-sm-offset-1 {
+        margin-left: unset;
+        margin-right: 8.333333333333332%;
+    }
+}
+
+
+@media (min-width: 992px) {
+    .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+        float: right;
+    }
+}
+
+
+.login-form form input, .signup-form form input {
+    font-family: 'Droid Arabic Kufi';
+    padding-left: unset;
+    padding-right: 10px;
+}
+
+
+.breadcrumbs .breadcrumb {
+    padding-left: unset;
+    padding-right: 0;
+}
+
+
+.breadcrumbs .breadcrumb li a:after {
+    left: unset;
+    right: 65px;
+    border-width: 7px;
+    border-color: transparent #fe980f transparent transparent;
+}
+
+
+#cart_items .cart_info .image {
+    padding-left: unset;
+    padding-right: 30px;
+}
+
+
+.cart_product {
+    margin: 15px 25px 10px -70px;
+}
+
+
+.cart_quantity_input {
+    float: right;
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+#do_action .total_area, #do_action .chose_area {
+    padding: 30px 0 30px 25px;
+}
+
+
+.total_area span {
+    float: left;
+}
+
+
+.update {
+    margin-left: unset;
+    margin-right: 40px;
+}
+
+
+.check_out {
+    margin-left: unset;
+    margin-right: 20px;
+}
+
+
+#similar-product .carousel-inner .item {
+    padding-left: unset;
+    padding-right: 0px;
+}
+
+
+#similar-product .carousel-inner .item img {
+    margin-left: unset;
+    margin-right: 15px;
+}
+
+
+.product-information {
+    padding-left: unset;
+    padding-right: 60px;
+}
+
+
+.newarrival {
+    left: unset;
+    right: 0;
+}
+
+
+.product-information span span {
+    float: right;
+    font-family: 'Droid Arabic Kufi';
+    margin-right: unset;
+    margin-left: 20px;
+}
+
+
+.product-information span label {
+    font-family: 'Droid Arabic Kufi';
+    margin-right: unset;
+    margin-left: 5px;
+}
+
+
+.cart {
+    font-family: 'Droid Arabic Kufi';
+    margin-left: unset;
+    margin-right: 20px;
+}
+
+#reviews ul li a {
+    font-family: 'Droid Arabic Kufi';
+    padding-right: unset;
+    padding-left: 15px;
+}
+
+
+#reviews ul li a i {
+    padding-right: unset;
+    padding-left: 8px;
+}
+
+
+.productinfo img {
+    height: 290px;
+}
+
+
+.tab-pane .productinfo img {
+    height: 190px;
+}
+
+
+#recommended-item-carousel .productinfo img {
+    height: 290px;
+}
